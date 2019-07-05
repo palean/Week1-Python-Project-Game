@@ -23,7 +23,7 @@ The game is about how fast and accurate you can type text. So, the user will typ
 ## Workflow
 Outline the workflow you used in your project. What were the steps you went through?
 
-The flowchar can be found in this link:
+The flowchart can be found in this link:
 https://www.lucidchart.com/documents/view/f494af43-38c9-426e-af91-1f5529691c77/0
 
 <a name="organization"></a>
@@ -31,6 +31,7 @@ https://www.lucidchart.com/documents/view/f494af43-38c9-426e-af91-1f5529691c77/0
 ## Organization
 How did you organize yourself? Did you use any tools?
 We pick up other recommendations from stackoverflow.com, specifically learn how to do the time part. Also, we wanted to push the limits and tried to visualise the words in a screen.
+Also we tried with our own ambitions what we wanted from the game. We developed together the console game called "190705-Typing-game" and then we wanted to push to the limit the visual part and did the "TypeW-GAME".
 <a name="links"></a>
 
 ## Links
